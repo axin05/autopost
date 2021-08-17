@@ -5,11 +5,5 @@
         "password": "wang12121",
         "schoolcode": "xmut",
         "enable": "true"
-    },
-    {
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "enable": "true"
     }
 ]
